@@ -5,9 +5,10 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"fmt"
-	"github.com/terassyi/go-softether-api/pkg"
 	"io/ioutil"
 	"net/http"
+
+	"github.com/thinkontrolsy/go-softether-api/pkg"
 )
 
 //to handle softether vpn server json-rpc api

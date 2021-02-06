@@ -3,9 +3,10 @@ package methods
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/terassyi/go-softether-api/pkg"
 	"reflect"
 	"time"
+
+	"github.com/thinkontrolsy/go-softether-api/pkg"
 )
 
 type SetUSer struct {

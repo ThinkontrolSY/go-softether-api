@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/terassyi/go-softether-api/pkg"
+	"github.com/thinkontrolsy/go-softether-api/pkg"
 )
 
 type SetLink struct {
